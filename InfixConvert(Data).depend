@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1461599130 source:c:\users\harrison\desktop\projects\c++\inventory(data)\infixconvert(data)\main.cpp
+	<string>
+	"stackADT.h"
+
+1461597941 c:\users\harrison\desktop\projects\c++\inventory(data)\infixconvert(data)\stackadt.h
+	<iostream>
+	<string>
+
+1461598246 source:c:\users\harrison\desktop\projects\c++\inventory(data)\infixconvert(data)\stackadt.cpp
+	"StackADT.h"
+
+1461611117 source:c:\users\harrison bannerman\google drive\projects\c++\infixconvert(data)\main.cpp
+	<string>
+	<stack>
+
